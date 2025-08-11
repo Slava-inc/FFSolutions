@@ -1,3 +1,3 @@
 # FFSolutions
 lessons solutions
-learning project
+learning data science project
